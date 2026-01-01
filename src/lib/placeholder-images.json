@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "blue-armchair",
+      "description": "A person sitting in a modern blue armchair in a well-lit room.",
+      "imageUrl": "https://images.unsplash.com/photo-1758523668804-b36ae3158622?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxibHVlJTIwYXJtY2hhaXJ8ZW58MHx8fHwxNzY3MTk5MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blue armchair"
+    },
+    {
+      "id": "red-backpack",
+      "description": "A red backpack with multiple compartments, suitable for hiking or daily use.",
+      "imageUrl": "https://images.unsplash.com/photo-1753166825475-6b956164e195?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyZWQlMjBiYWNrcGFja3xlbnwwfHx8fDE3NjcxOTkxNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red backpack"
+    },
+    {
+      "id": "wood-table",
+      "description": "A minimalist wooden dining table with a smooth finish.",
+      "imageUrl": "https://images.unsplash.com/photo-1576506542790-51244b486a6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b29kJTIwdGFibGV8ZW58MHx8fHwxNzY3MTEzMzA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wood table"
+    },
+    {
+      "id": "silver-laptop",
+      "description": "A sleek silver laptop open on a desk.",
+      "imageUrl": "https://images.unsplash.com/photo-1637329273022-72ebc0fbd4ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzaWx2ZXIlMjBsYXB0b3B8ZW58MHx8fHwxNzY3MTk5MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "silver laptop"
+    },
+    {
+      "id": "white-sneaker",
+      "description": "A pair of clean, white sneakers on a plain background.",
+      "imageUrl": "https://images.unsplash.com/photo-1580902215223-647d515e04fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMHNuZWFrZXJ8ZW58MHx8fHwxNzY3MTYxMjM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "white sneaker"
+    },
+    {
+      "id": "black-camera",
+      "description": "A professional DSLR camera with a lens attached.",
+      "imageUrl": "https://images.unsplash.com/photo-1486492440844-ebc195542a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxibGFjayUyMGNhbWVyYXxlbnwwfHx8fDE3NjcxOTkxNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black camera"
+    },
+    {
+      "id": "green-plant",
+      "description": "A leafy green plant in a ceramic pot.",
+      "imageUrl": "https://images.unsplash.com/photo-1557090495-fc9312e77b28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3R0ZWQlMjBwbGFudHxlbnwwfHx8fDE3NjcxOTkxNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "potted plant"
+    },
+    {
+      "id": "leather-wallet",
+      "description": "A brown leather wallet with stitching details.",
+      "imageUrl": "https://images.unsplash.com/photo-1582126486298-9d5194a50d82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bGVhdGhlciUyMHdhbGxldHxlbnwwfHx8fDE3NjcxNDIyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "leather wallet"
+    }
+  ]
+}
