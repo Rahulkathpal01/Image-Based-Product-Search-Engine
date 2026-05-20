@@ -1,5 +1,12 @@
 import type {NextConfig} from 'next';
+const nextConfig: NextConfig = {
+  experimental: {
+    serverActions: {
+      bodySizeLimit: '10mb',
+    },
+  },
 
+  /* rest of your existing code */
 const nextConfig: NextConfig = {
   /* config options here */
   typescript: {
